@@ -43,6 +43,7 @@
     "eslint-config-next": "13.2.3",
     "eslint-config-prettier": "^8.8.0",
     "eslint-plugin-prettier": "^4.2.1",
+    "https-proxy-agent": "^5.0.1",
     "husky": "^8.0.0",
     "lint-staged": "^13.2.0",
     "prettier": "^2.8.7",
